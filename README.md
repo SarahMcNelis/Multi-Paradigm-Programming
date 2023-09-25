@@ -48,13 +48,13 @@ be able to buy many products in this way.
 
 ## Credit
 
-For this project I relied on my lecturer's notes, lectures and continuous assessment assignments. I built on content and concepts from these lectures and assignments to create my shop simulation. I also did research which I references in my report.pdf. 
+For this project I relied on my lecturer's notes, lectures and continuous assessment assignments. I built on content and concepts from these lectures and assignments to create my shop simulation. I also did research which I referenced in my report.pdf. 
 
 <br>
 
 ## Conclusion
 
-I feel this project helped me learn about different programming paradigms. It also got me to think about what the best way to write certain programmes might be and in what language. Through the completion of this project I have displayed skills for writing in c, python procedural and python oop. I have also shown my ability to research and develop a project from scratch. 
+I feel this project helped me learn about different programming paradigms. It also got me to think about what the best way to write certain programmes and in what language. Through the completion of this project I have displayed skills for writing in c, python procedural and python oop. I have also shown my ability to research and develop a project from start to finish. 
 
 <br>
 
